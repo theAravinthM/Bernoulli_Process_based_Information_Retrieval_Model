@@ -1,0 +1,1 @@
+# Bernoulli_Process_based_Information_Retrieval_Model
